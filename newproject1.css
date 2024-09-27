@@ -1,0 +1,130 @@
+body{
+    background-color: rgb(185, 211, 202);
+}
+
+    
+   .one{
+    position: relative;
+    margin-top: -45px;
+    margin-left: 60px;
+    font-size: large;
+
+   }
+   .two{
+    position: relative;
+    
+   }
+    h1{
+        font-size: 65px;
+    }
+    .three{
+        margin-top: -50px;
+
+    }
+    .two{
+        color: #a210a7;
+    }
+    .four{
+        color: #414441;
+    }
+    .image{
+      
+        position: absolute;
+        left:840px;
+        bottom:300px;
+    img{
+        width:450px;
+    }
+}
+    ul {
+        list-style-type: none;
+        margin:0;
+        padding: 0;
+        width: 50%;
+        overflow: hidden;
+        float: right;
+      }
+      
+      li {
+        float: right;
+        list-style-type: none;
+        margin-left: 100px;
+      }
+      
+      li a{
+        display: block;
+        color: rgb(186, 45, 17);
+        text-align: center;
+        padding: 12px 10px;
+    }
+
+    .points{
+        margin-left:50px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .para3{
+        position: relative;
+        margin-left:620px;
+        margin-top: -160px;
+    }
+.page2{
+    margin-top: 100px;
+    background-color: bisque;
+}
+.p3h{
+    position: relative;
+    margin-top: -500px
+
+
+}
+.page4{
+    background-color: aliceblue;
+    
+}
+
+.p4h1{
+    position: relative;
+    margin-left: 50px;
+
+}
+.p4h2{
+    position: relative;
+    margin-left: 400px;
+    margin-top: -180px;
+}
+    
+.p4h3{
+    position: relative;
+    margin-left: 650px;
+    margin-top: -140px;
+}
+    .p4h4{
+        position: relative;
+        margin-left: 850px;
+        margin-top: -140px;
+    }    
+    
+        
+
+
+            
+    
+
+
+      
+      
+        
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+ 
